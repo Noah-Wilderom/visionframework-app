@@ -2,6 +2,8 @@
 
 $app = app()->prepare(dirname(__DIR__));
 
+dump($app, 'testing');
+
 /*
 |--------------------------------------------------------------------------
 | Return The Application

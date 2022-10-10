@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Noah-Wilderom/vision-framework.git",
-                "reference": "727fc8bd8ac6fb37f9206623bc6315c02930c3f9"
+                "reference": "02517396884b66c6868f4cb7159dd511c33abb80"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Noah-Wilderom/vision-framework/zipball/727fc8bd8ac6fb37f9206623bc6315c02930c3f9",
-                "reference": "727fc8bd8ac6fb37f9206623bc6315c02930c3f9",
+                "url": "https://api.github.com/repos/Noah-Wilderom/vision-framework/zipball/02517396884b66c6868f4cb7159dd511c33abb80",
+                "reference": "02517396884b66c6868f4cb7159dd511c33abb80",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -25,6 +25,9 @@
                         "preferred": true
                     }
                 ]
+            },
+            "require": {
+                "php": "^7.3|^8.0"
             },
             "default-branch": true,
             "type": "library",
@@ -47,7 +50,7 @@
                 }
             ],
             "description": "Another php laravel inspired framework.",
-            "time": "2022-10-10T11:03:49+00:00"
+            "time": "2022-10-10T11:52:51+00:00"
         }
     ],
     "packages-dev": [],
