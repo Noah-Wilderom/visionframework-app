@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "17d8d5d4cf833ba3f8ec22c5dca7af5c",
+    "packages": [
+        {
+            "name": "vision/framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:Noah-Wilderom/vision-framework.git",
+                "reference": "727fc8bd8ac6fb37f9206623bc6315c02930c3f9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Noah-Wilderom/vision-framework/zipball/727fc8bd8ac6fb37f9206623bc6315c02930c3f9",
+                "reference": "727fc8bd8ac6fb37f9206623bc6315c02930c3f9",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://repo.packagist.com/vision-framework/dists/%package%/%version%/r%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/Helpers/global.php"
+                ],
+                "psr-4": {
+                    "Vision\\": "src/"
+                }
+            },
+            "notification-url": "https://repo.packagist.com/vision-framework/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Noah Wilderom",
+                    "email": "wilderomnoah@gmail.com"
+                }
+            ],
+            "description": "Another php laravel inspired framework.",
+            "time": "2022-10-10T11:03:49+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "vision/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
