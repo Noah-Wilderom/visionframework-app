@@ -502,12 +502,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Noah-Wilderom/vision-framework.git",
-                "reference": "51ebb3b5351a10d8759d9d05014111ed5773bc3b"
+                "reference": "1e350f8a10d650225cd11900674808be2f988723"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Noah-Wilderom/vision-framework/zipball/51ebb3b5351a10d8759d9d05014111ed5773bc3b",
-                "reference": "51ebb3b5351a10d8759d9d05014111ed5773bc3b",
+                "url": "https://api.github.com/repos/Noah-Wilderom/vision-framework/zipball/1e350f8a10d650225cd11900674808be2f988723",
+                "reference": "1e350f8a10d650225cd11900674808be2f988723",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -548,7 +548,7 @@
                 "source": "https://github.com/Noah-Wilderom/vision-framework/tree/master",
                 "issues": "https://github.com/Noah-Wilderom/vision-framework/issues"
             },
-            "time": "2022-10-11T08:21:36+00:00"
+            "time": "2022-10-13T20:58:15+00:00"
         },
         {
             "name": "vlucas/phpdotenv",

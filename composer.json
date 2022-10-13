@@ -1,25 +1,30 @@
 {
-    "name": "vision/vision",
-    "description": "Project for the vision framework",
-    "type": "project",
-    "license": "MIT",
-    "repositories": [
-        {"type": "composer", "url": "https://repo.packagist.com/vision-framework"},
-        {"packagist.org": false}
-    ],
-    "autoload": {
-        "psr-4": {
-            "Vision\\Vision\\": "app/"
-        }
+  "name": "vision/vision",
+  "description": "Project for the vision framework",
+  "type": "project",
+  "license": "MIT",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://repo.packagist.com/vision-framework"
     },
-    "authors": [
-        {
-            "name": "Noah Wilderom",
-            "email": "wilderomnoah@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "vision/framework": "dev-master"
+    {
+      "packagist.org": false
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Noah Wilderom",
+      "email": "wilderomnoah@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "vision/framework": "dev-master"
+  }
 }
